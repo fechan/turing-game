@@ -1,0 +1,61 @@
+@use "../node_modules/bootstrap/scss/bootstrap";
+
+.game-box {
+  @extend .bg-light;
+
+  @extend .rounded-2;
+
+  @extend .p-3;
+
+  @extend .h-100;
+
+  color: black;
+
+  user-select: none;
+  cursor: pointer;
+
+  p {
+    @extend .mb-0;
+    @extend .mt-3;
+
+    white-space: pre-line;
+  }
+}
+
+.game-box:hover {
+  box-shadow: 1px 8px 8px -1px rgba(0,0,0,0.75);
+  position: relative;
+  top: -1px;
+}
+
+.game-selected:hover {
+  @extend .game-box, :hover;
+}
+
+.game-selected {
+  box-shadow: inset 0px 0px 0px 3px var(--bs-primary),
+              1px 8px 8px -1px rgba(0,0,0,0.75) !important;
+
+  position: relative;
+}
+
+#game-results {
+  @extend .d-flex;
+  @extend .justify-content-center;
+  
+  >span {
+    @extend .mx-2;
+  }
+}
+
+#game-end-stats {
+  @extend .lead;
+
+  span {
+    @extend .d-block;
+  }
+}
+
+.game-accuracy::after {
+  content: "%";
+}
