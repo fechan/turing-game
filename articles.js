@@ -189,21 +189,6 @@ const ARTICLES = [
     The government has deployed more than 150,000 security personnel to ensure the safety of voters and polling stations. The election results are expected to be announced within the next few days.`
   },
   {
-    "title": "Comet ISON's leftovers fade away, right before a satellite's eyes",
-    "generatedby": "OpenAI GPT-3 (ChatGPT)",
-    "source": "https://www.nbcnews.com/science/comet-isons-leftovers-fade-away-right-satellites-eyes-2D11674277",
-    "real": `Nov. 30, 2013, 10:43 AM PST (NBC News) - The remnants of Comet ISON, which was once thought to be a potential "comet of the century," have virtually disappeared from view, according to NASA's STEREO spacecraft.
-
-    Comet ISON, which was discovered in 2012, had been closely monitored by scientists and stargazers alike in the lead-up to its close encounter with the sun in late November. The comet was thought to have the potential to put on a dazzling display of light as it passed close to the sun, but it ultimately broke apart and disintegrated as it approached the star.
-    
-    The STEREO spacecraft, which was positioned to get a close-up view of the comet as it approached the sun, captured images of the comet's remains over the past week. However, the images show that the coma, or fuzzy atmosphere, of the comet has now faded away, leaving only a faint trail of debris.`,
-    "fake": `Nov. 30, 2013, 10:43 AM PST (NBC News) - The remnants of Comet ISON, which was once thought to be a potential "comet of the century," have virtually disappeared from view, according to NASA's STEREO spacecraft.
-
-    Comet ISON, which was discovered in 2012, had been closely monitored by scientists and stargazers alike in the lead-up to its close encounter with the sun in late November. The comet was thought to have the potential to put on a dazzling display of light as it passed close to the sun, but it ultimately broke apart and disintegrated as it approached the star.
-    
-    The STEREO spacecraft, which was positioned to get a close-up view of the comet as it approached the sun, captured images of the comet's remains over the past week. However, the images show that the coma, or fuzzy atmosphere, of the comet has now faded away, leaving only a faint trail of debris.`
-  },
-  {
     "title": "Zelenskyy: Retreating Russians leave many mines behind",
     "generatedby": "OpenAI GPT-3 (ChatGPT)",
     "source": "https://apnews.com/article/russia-ukraine-zelenskyy-kyiv-europe-8482e237420a33a17bfb4e613e75bb66",
